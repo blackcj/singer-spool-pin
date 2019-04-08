@@ -2,6 +2,8 @@
 
 Replacement spool pin for a Singer sewing machine.
 
+![Spool Pin](spool_pin.png)
+
 ## Print Settings
 
 - Layer Height: `0.2mm`
@@ -14,5 +16,3 @@ Replacement spool pin for a Singer sewing machine.
 - Brim Width: `10mm`
 
 Total time to print: **33 minutes**
-
-![Spool Pin](spool_pin.png)
